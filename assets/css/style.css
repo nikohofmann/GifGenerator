@@ -28,3 +28,8 @@ body {
 #new-value {
   max-width: 500px;
 }
+
+#add-new {
+  margin-right: 1rem;
+  margin-bottom: .5rem;
+}
