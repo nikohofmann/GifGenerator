@@ -1,0 +1,30 @@
+body {
+  padding: 2rem 0;
+  color: #fff;
+  font-size: 1.25rem;
+}
+
+.btn {
+  font-size: 1.25rem;
+  padding: .5rem 2rem;
+}
+
+#button-container .btn {
+  margin: .5rem 1rem .5rem 0;
+}
+
+.container {
+  margin-bottom: 2rem;
+}
+
+.container:last-of-type {
+  margin-bottom: 0;
+}
+
+#gif-container img {
+  margin: .5rem 1rem .5rem 0;
+}
+
+#new-value {
+  max-width: 500px;
+}
