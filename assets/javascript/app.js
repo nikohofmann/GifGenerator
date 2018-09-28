@@ -1,4 +1,4 @@
-// $("document").ready(function() {
+$("document").ready(function() {
 
   var topics = ["ferrari", "lamborghini", "alfa romeo", "mercedes-benz", "bmw", "pagani", "mclaren", "porsche"];
   var numGifs = 10;
@@ -83,4 +83,4 @@
   
 
   
-// });
+});
